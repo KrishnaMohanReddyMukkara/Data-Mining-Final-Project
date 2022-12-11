@@ -1,4 +1,4 @@
-# Breast-cancer-diagnosis-using-Machine-Learning
+# Breast-cancer-diagnosis-using-Data Mining Models
 Machine learning is widely used in bio informatics and particularly in breast cancer diagnosis.
 In this project, we have used certain classification methods such as K-nearest neighbors (K-NN) and Support Vector Machine (SVM) which is a supervised learning method to detect breast cancer. 
 Cancer diagnosis is one of the most studied problems in the medical domain.
